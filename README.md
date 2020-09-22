@@ -17,7 +17,7 @@ The goal was to actually load and wrangle with data so that I can start off runn
 
 ## What I built
 
-I produced a Jupyter Notebook with a few different sample ML and data science applications based on multiple tutorials. The first is a classic ML classification of the iris flowers dataset. The next is a use case for speech processing in Python, with an interactive game that takes user input from the microphone.
+I produced a Jupyter Notebook with a few different sample ML and data science applications based on multiple tutorials. The first is a classic ML classification of the iris flowers dataset. The next is a use case for speech processing in Python, with an interactive game that takes user input from the microphone. The last is an image classification task of MNIST data using a distributed computational method through TensorFlow Federated.
 
 ## What I learned
 
